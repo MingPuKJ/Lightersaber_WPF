@@ -1,0 +1,1 @@
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Release\Lightersaber_WPF.exe.config

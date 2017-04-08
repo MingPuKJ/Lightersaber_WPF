@@ -1,0 +1,16 @@
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Debug\Lightersaber_WPF.exe.config
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Debug\Lightersaber_WPF.exe
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Debug\Lightersaber_WPF.pdb
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.csprojResolveAssemblyReference.cache
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\MainWindow.g.cs
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\App.g.cs
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF_MarkupCompile.cache
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF_MarkupCompile.lref
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\MainWindow.baml
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.g.resources
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.Properties.Resources.resources
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.csproj.GenerateResource.Cache
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.exe
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\obj\Debug\Lightersaber_WPF.pdb
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Debug\Microsoft.Kinect.dll
+F:\WorkPlace\OpenGL\Lightersaber_WPF\Lightersaber_WPF\bin\Debug\Microsoft.Kinect.xml
